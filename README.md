@@ -1,12 +1,12 @@
 # ReportWork
 Em xin báo cáo công việc đã và đang làm của mình:
-- Đã làm:
+# Đã làm:
 + Chuyển callback function thành async await.
 + Chỉnh sửa giao diện của table.
 + Chỉnh sửa giao diện modal lịch sử của người dùng, modal lịch sử thuê của sách.
 + Chuyển giao diện User Profile sang thành Modal.
 + Chuyển button trong table sang dạng icon.
-- Đang làm:
+# Đang làm:
 + Xây dựng giao diện chính.
 + Xây dụng alert.
 + Chỉnh sửa giao diện hiện thị danh sách các quyển sách.
